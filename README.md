@@ -1,4 +1,5 @@
-# Star Trek Timelines Data Core
+# PROJECT MOVED TO https://github.com/stt-datacore/website
+## Star Trek Timelines DataCore
 
 As of May 2020, I'm preparing to archive the project (documentation, source code, data) in case someone wants to take over development in the future. The current situation (covid) doesn't afford me the time to continue working on it, and I'm also no longer having fun working on it alone.
 
